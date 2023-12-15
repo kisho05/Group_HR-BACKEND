@@ -21,7 +21,7 @@ public class CustomerController {
     //view all customers details
     @GetMapping("/viewall")
     public String helloWorld() {
-        return "Hello, World!";
+        return "Hello, harsha!";
     }
 
 
